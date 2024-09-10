@@ -3,5 +3,7 @@ Assignments I produced for the Differential Equations: Modelling and Numerics mo
 
 The focus of these assignments are on implementing and assessing the efficiency of various Runge-Kutta methods for approximating solutions to second order differential equations.
 
-Assignment 1 focusses on 
+Assignment 1 focusses on the Forward Euler Method
+
+Assignment 2 focusses on
 
