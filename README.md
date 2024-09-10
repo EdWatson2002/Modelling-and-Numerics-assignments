@@ -5,5 +5,6 @@ The focus of these assignments are on implementing and assessing the efficiency 
 
 Assignment 1 focusses on the Forward Euler Method
 
-Assignment 2 focusses on
+Assignment 2 focusses on comparing the efficiency and accuracy of various methods, mainly the Forward Euler, Backward Euler, Crank-Nicholson and Semi-implicit Euler methods
 
+Assignment 3 focussed on 
